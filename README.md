@@ -1,3 +1,3 @@
-# Front-end view of this application.
+# Frontend.
 
 ![](images/image-search-frontend.png)
